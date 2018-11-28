@@ -1,0 +1,4 @@
+Warmup - foo
+Anchors - k$
+It never ends - u\b
+Ranges - [a-f][a-e].[^mj]
